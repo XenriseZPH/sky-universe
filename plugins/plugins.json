@@ -125,8 +125,8 @@
     "description": "Asian Drama, Anime, and Movies from KissKH",
     "language": "en",
     "tvTypes": ["TvSeries", "Movie", "Anime"],
-    "baseUrl": "https://kisskh.ovh",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=128",
+    "baseUrl": "MAIN_URL",
+    "iconUrl": "",
     "url": "https://raw.githubusercontent.com/XenriseZPH/sky-universe/refs/heads/main/plugins/kisskh.sky"
   },
   {
