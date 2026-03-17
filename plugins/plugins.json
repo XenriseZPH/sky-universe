@@ -4,65 +4,49 @@
     "name": "Disney Plus",
     "internalName": "disney_plus",
     "version": 3,
-    "authors": [
-      "Akash"
-    ],
+    "authors": ["Akash"],
     "description": "Disney Plus Provider",
     "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
+    "tvTypes": ["Movie"],
     "baseUrl": "MAIN_URL",
     "iconUrl": "",
-    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/disney_plus.sky"
+    "url": "https://raw.githubusercontent.com/XenriseZPH/sky-universe/refs/heads/main/plugins/disney_plus.sky"
   },
   {
     "id": "dev.akash.stars.hs",
     "name": "Hotstar",
     "internalName": "hotstar_mirror",
     "version": 3,
-    "authors": [
-      "Akash"
-    ],
+    "authors": ["Akash"],
     "description": "Hotstar Provider",
     "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
+    "tvTypes": ["Movie"],
     "baseUrl": "MAIN_URL",
     "iconUrl": "",
-    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/hotstar_mirror.sky"
+    "url": "https://raw.githubusercontent.com/XenriseZPH/sky-universe/refs/heads/main/plugins/hotstar_mirror.sky"
   },
   {
     "id": "dev.akash.skystream.moviesdrive",
     "name": "Movies Drive",
     "internalName": "movies_drive",
     "version": 1,
-    "authors": [
-      "Akash"
-    ],
+    "authors": ["Akash"],
     "description": "Movies Drive Provider",
     "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
+    "tvTypes": ["Movie"],
     "baseUrl": "MAIN_URL",
     "iconUrl": "",
-    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/movies_drive.sky"
+    "url": "https://raw.githubusercontent.com/XenriseZPH/sky-universe/refs/heads/main/plugins/movies_drive.sky"
   },
   {
     "id": "com.megix.vegamovies",
     "name": "VegaMovies",
     "internalName": "netflix_mirror",
     "version": 2,
-    "authors": [
-      "Akash"
-    ],
+    "authors": ["Akash"],
     "description": "Netflix Provider",
     "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
+    "tvTypes": ["Movie"],
     "baseUrl": "MAIN_URL",
     "iconUrl": "",
     "url": "https://github.com/YashRana738/sky-universe/raw/refs/heads/main/plugins/netflix_mirror.sky"
@@ -72,101 +56,90 @@
     "name": "Prime Video",
     "internalName": "prime_video",
     "version": 4,
-    "authors": [
-      "Akash"
-    ],
+    "authors": ["Akash"],
     "description": "Prime Video Provider",
     "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
+    "tvTypes": ["Movie"],
     "baseUrl": "MAIN_URL",
     "iconUrl": "",
-    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/prime_video.sky"
+    "url": "https://raw.githubusercontent.com/XenriseZPH/sky-universe/refs/heads/main/plugins/prime_video.sky"
   },
   {
     "id": "dev.akash.stars.ringz",
     "name": "Ringz",
     "internalName": "ringz",
     "version": 2,
-    "authors": [
-      "Akash"
-    ],
+    "authors": ["Akash"],
     "description": "Ringz Provider",
     "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
+    "tvTypes": ["Movie"],
     "baseUrl": "MAIN_URL",
     "iconUrl": "",
-    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/ringz.sky"
+    "url": "https://raw.githubusercontent.com/XenriseZPH/sky-universe/refs/heads/main/plugins/ringz.sky"
   },
   {
     "id": "dev.akash.stars.streamflix",
     "name": "StreamFlix 2.0",
     "internalName": "streamflix",
     "version": 1,
-    "authors": [
-      "Akash"
-    ],
+    "authors": ["Akash"],
     "description": "StreamFlix 2.0 Provider",
     "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
+    "tvTypes": ["Movie"],
     "baseUrl": "MAIN_URL",
     "iconUrl": "",
-    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/streamflix.sky"
+    "url": "https://raw.githubusercontent.com/XenriseZPH/sky-universe/refs/heads/main/plugins/streamflix.sky"
   },
   {
     "id": "dev.akash.stars.xdmovies",
     "name": "XDMovies",
     "internalName": "xdmovies",
     "version": 2,
-    "authors": [
-      "Akash"
-    ],
+    "authors": ["Akash"],
     "description": "XDMovies Provider",
     "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
+    "tvTypes": ["Movie"],
     "baseUrl": "MAIN_URL",
     "iconUrl": "",
-    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/xdmovies.sky"
+    "url": "https://raw.githubusercontent.com/XenriseZPH/sky-universe/refs/heads/main/plugins/xdmovies.sky"
   },
   {
     "id": "dev.akash.stars.yts",
     "name": "YTS",
     "internalName": "YTS",
     "version": 1,
-    "authors": [
-      "Akash"
-    ],
+    "authors": ["Akash"],
     "description": "YTS Provider",
     "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
+    "tvTypes": ["Movie"],
     "baseUrl": "MAIN_URL",
     "iconUrl": "",
-    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/yts.sky"
+    "url": "https://raw.githubusercontent.com/XenriseZPH/sky-universe/refs/heads/main/plugins/yts.sky"
+  },
+  {
+    "id": "com.phisher98.kisskh",
+    "name": "KissKH",
+    "internalName": "kisskh",
+    "version": 1,
+    "authors": ["Phisher98"],
+    "description": "Asian Drama, Anime, and Movies from KissKH",
+    "language": "en",
+    "tvTypes": ["TvSeries", "Movie", "Anime"],
+    "baseUrl": "https://kisskh.ovh",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=128",
+    "url": "https://raw.githubusercontent.com/XenriseZPH/sky-universe/refs/heads/main/plugins/kisskh.sky"
   },
   {
     "id": "dev.akash.stars.4khdhub",
     "name": "4KhdHub",
     "internalName": "4KhdHub",
     "version": 1,
-    "authors": [
-      "Phisher"
-    ],
+    "authors": ["Phisher"],
     "description": "4KhdHub Provider",
     "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
+    "tvTypes": ["Movie"],
     "baseUrl": "MAIN_URL",
     "iconUrl": "",
-    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/FourKHDHub.sky"
+    "url": "https://raw.githubusercontent.com/XenriseZPH/sky-universe/refs/heads/main/plugins/FourKHDHub.sky"
   }
 ]
